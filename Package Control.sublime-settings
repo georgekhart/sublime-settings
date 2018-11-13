@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Base Encoder",
 		"Emmet",
 		"Git",
 		"GitGutter",

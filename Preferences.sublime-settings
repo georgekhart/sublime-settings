@@ -1,16 +1,36 @@
 {
+	"always_prompt_for_file_reload": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 3,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"detect_indentation": false,
+	"drag_text": false,
 	"draw_minimap_border": true,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
 	"font_face": "inconsolata",
 	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"sidebar_medium": true,
 	"tab_size": 4,
 	"theme": "Cobalt2.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "auto",
+	"wrap_width": 79
 }
